@@ -2,7 +2,7 @@ hello
 asdfasd
 asdfasdf
 
-Hello test remote remote2
+Hello t remote remote2
 New line added in remote repository
 
 asdf
