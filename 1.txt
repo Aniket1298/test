@@ -8,12 +8,6 @@ New line added in remote repository
 asdf
 
 
-
-
-
-
-
-
 asdfadsf
 
 hello
