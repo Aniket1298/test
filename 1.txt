@@ -1,1 +1,2 @@
-Hello from local
+Hello from remote
+New line added in remote repository
