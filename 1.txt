@@ -2,7 +2,11 @@ hello
 asdfasd
 asdfasdf
 
+<<<<<<< HEAD
 Hello t remote remote2
+=======
+Hello hello remote remote2
+>>>>>>> e49b48b330cf24e439f3d9d3eb7760b65e56e9f0
 New line added in remote repository
 
 asdf
